@@ -37,6 +37,7 @@ The system monitors temperature using a DHT22 sensor and automatically controls 
 - Sensor fault detection
 - Alarm buzzer
 - Watchdog timer
+  https://wokwi.com/projects/463755385564904449
 
 ## Author
 Hoa Nguyen 
