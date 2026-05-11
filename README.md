@@ -39,4 +39,4 @@ The system monitors temperature using a DHT22 sensor and automatically controls 
 - Watchdog timer
 
 ## Author
-Juthamat Rachsuwo
+Hoa Nguyen 
